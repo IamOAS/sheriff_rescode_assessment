@@ -33,4 +33,5 @@ This Flutter application demonstrates a scrollable, heterogeneous list of cards 
 ## Technical Notes
 
 * Only Flutter’s built-in widgets and APIs are used; no third-party packages.
+* All code is consolidated in `lib/main.dart` for simplicity and easier review, rather than abstracting into multiple files.
 * Code is structured for clarity, maintainability, and performance.
